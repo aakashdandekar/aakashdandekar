@@ -30,6 +30,7 @@ I'm a passionate developer who enjoys building full-stack web applications and b
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![ImageKit](https://img.shields.io/badge/ImageKit-0770FF?style=for-the-badge&logo=imagekit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![antigravity](https://img.shields.io/badge/antigravity-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -67,7 +68,7 @@ A frontend redesign concept for YouTube, built with **HTML/CSS**, focusing on im
 
 ## 🤝 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-aakashdandekar-181717?style=for-the-badge&logo=github)](https://github.com/aakashdandekar)\
+[![GitHub](https://img.shields.io/badge/GitHub-aakashdandekar-181717?style=for-the-badge&logo=github)](https://github.com/aakashdandekar)
 [![Email](https://img.shields.io/badge/Email-aakash.dandekar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakash.dandekar@gmail.com)
 
 ---
