@@ -70,7 +70,7 @@ A frontend redesign concept for YouTube, built with **HTML/CSS**, focusing on im
 
 [![GitHub](https://img.shields.io/badge/GitHub-aakashdandekar-181717?style=for-the-badge&logo=github)](https://github.com/aakashdandekar)\
 [![LeetCode](https://img.shields.io/badge/leetcode-aakashdandekar-181717?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aakashdandekar/)\
-[![Email](https://img.shields.io/badge/Email-aakashdandekar2006@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashdandekar2006@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aakashdandekar2006@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ---
 
