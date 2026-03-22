@@ -69,7 +69,8 @@ A frontend redesign concept for YouTube, built with **HTML/CSS**, focusing on im
 ## 🤝 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-aakashdandekar-181717?style=for-the-badge&logo=github)](https://github.com/aakashdandekar)\
-[![Email](https://img.shields.io/badge/Email-aakash.dandekar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakash.dandekar@gmail.com)
+[![LeetCode](https://img.shields.io/badge/username=aakashdandekar-D14836?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aakashdandekar/)\
+[![Email](https://img.shields.io/badge/Email-aakash.dandekar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashdandekar2006@gmail.com)
 
 ---
 
