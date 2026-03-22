@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who enjoys building full-stack web applications and solving real-world problems through code. I love exploring new technologies and turning ideas into functional, user-friendly projects.
+I'm a passionate developer who enjoys building full-stack web applications and backend APIs. I love exploring new technologies and turning ideas into functional, user-friendly projects.
 
 ---
 
@@ -19,18 +19,32 @@ I'm a passionate developer who enjoys building full-stack web applications and s
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+**Frameworks & Libraries**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ImageKit](https://img.shields.io/badge/ImageKit-0770FF?style=for-the-badge&logo=imagekit&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
+### 🛍️ [Product Marketplace API](https://github.com/aakashdandekar/Product-Marketplace-API)
+A FastAPI-based backend for a product marketplace with user authentication, image uploads, full-text product search, and purchasing functionality.
+
+- 🔧 **Tech:** Python, FastAPI, MongoDB, JWT, ImageKit, Uvicorn, antigravity
+- 📄 Licensed under Apache-2.0
+
+---
+
 ### 🌐 [Social Media WebApp](https://github.com/aakashdandekar/Social-Media-WebApp)
-A full-featured social media web application built with **Python**. Includes core social networking functionality with a clean, structured codebase.
+A full-featured social media web application built with **Python**, including core social networking functionality with a clean, structured codebase.
 
 - 🔧 **Tech:** Python
 - 📄 Licensed under Apache-2.0
@@ -48,16 +62,6 @@ A goal tracking application built with **JavaScript** to help users set, monitor
 A frontend redesign concept for YouTube, built with **HTML/CSS**, focusing on improved UI/UX and modern design aesthetics.
 
 - 🔧 **Tech:** HTML, CSS
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashdandekar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdandekar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
