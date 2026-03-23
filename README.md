@@ -1,4 +1,4 @@
-# Hi there, I'm Aakash Dandekar 👋
+# Hi there, I'm Aakash Dandekar
 
 [![GitHub followers](https://img.shields.io/github/followers/aakashdandekar?label=Follow&style=social)](https://github.com/aakashdandekar)
 [![Profile Views](https://komarev.com/ghpvc/?username=aakashdandekar&color=blue)](https://github.com/aakashdandekar)
