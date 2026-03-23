@@ -36,6 +36,14 @@ I'm a passionate developer who enjoys building full-stack web applications and b
 
 ## 📂 Featured Projects
 
+### 🤖 [Debate-LLM](https://github.com/aakashdandekar/Debate-LLM)
+Exploring the integration of Large Language Models (LLMs) in conversational and debate formats.
+
+- 🔧 **Tech:** Python, Large Language Models, LangChain, Ollama, Prompt Engineering
+- 📄 Licensed under Apache-2.0
+
+---
+
 ### 🛍️ [Product Marketplace API](https://github.com/aakashdandekar/Product-Marketplace-API)
 A FastAPI-based backend for a product marketplace with user authentication, image uploads, full-text product search, and purchasing functionality.
 
@@ -47,22 +55,16 @@ A FastAPI-based backend for a product marketplace with user authentication, imag
 ### 🌐 [Social Media WebApp](https://github.com/aakashdandekar/Social-Media-WebApp)
 A full-featured social media web application built with **Python**, including core social networking functionality with a clean, structured codebase.
 
-- 🔧 **Tech:** Python
+- 🔧 **Tech:** Python, Django, PostgreSQL, HTML, CSS, JavaScript, JWT
 - 📄 Licensed under Apache-2.0
 
 ---
 
-### ✅ [Goal Tracker](https://github.com/aakashdandekar/Goal-Tracker)
-A goal tracking application built with **JavaScript** to help users set, monitor, and achieve their personal and professional goals.
+### 💼 [Freelance Marketplace API](https://github.com/aakashdandekar/Freelance-Marketplace-API)
+A comprehensive backend API tailored for a freelance marketplace, featuring user authentication and database management.
 
-- 🔧 **Tech:** JavaScript
-
----
-
-### 🎨 [YouTube Redesign](https://github.com/aakashdandekar/Youtube-Re-design)
-A frontend redesign concept for YouTube, built with **HTML/CSS**, focusing on improved UI/UX and modern design aesthetics.
-
-- 🔧 **Tech:** HTML, CSS
+- 🔧 **Tech:** Python, FastAPI, MongoDB, JWT, Uvicorn, Pydantic
+- 📄 Licensed under Apache-2.0
 
 ---
 
