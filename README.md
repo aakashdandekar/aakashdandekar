@@ -36,7 +36,7 @@ I'm a passionate developer who enjoys building full-stack web applications and b
 
 ## 📂 Featured Projects
 
-### 🤖 [Debate-LLM](https://github.com/aakashdandekar/Debate-LLM)
+### 🤖 [Multi-Agent LLM Debate System with Automated Adjudication](https://github.com/aakashdandekar/Debate-LLM)
 Exploring the integration of Large Language Models (LLMs) in conversational and debate formats.
 
 - 🔧 **Tech:** Python, Large Language Models, LangChain, Ollama, Prompt Engineering
