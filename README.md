@@ -36,10 +36,18 @@ I'm a passionate developer who enjoys building full-stack web applications and b
 
 ## 📂 Featured Projects
 
+### 🤖 [Lexify: AI Legal Assistant](https://github.com/aakashdandekar/Debate-LLM)
+Exploring the integration of Large Language Models (LLMs) in legal document analysis and conversational querying.
+
+- 🔧 **Tech:** Python, FastAPI, Large Language Models, LangChain, Prompt Engineering
+- 📄 Licensed under Apache-2.0
+
+---
+
 ### 🤖 [DebateX — Multi-Agent LLM Reasoning Engine](https://github.com/aakashdandekar/Debate-LLM)
 Exploring the integration of Large Language Models (LLMs) in conversational and debate formats.
 
-- 🔧 **Tech:** Python, Large Language Models, LangChain, Ollama, Prompt Engineering
+- 🔧 **Tech:** Python, Large Language Models, LangChain, Prompt Engineering
 - 📄 Licensed under Apache-2.0
 
 ---
