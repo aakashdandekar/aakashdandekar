@@ -44,7 +44,7 @@ Exploring the integration of Large Language Models (LLMs) in legal document anal
 
 ---
 
-### 🤖 [DebateX — Multi-Agent LLM Reasoning Engine](https://github.com/aakashdandekar/Debate-LLM)
+### § [DebateX — Multi-Agent LLM Reasoning Engine](https://github.com/aakashdandekar/Debate-LLM)
 Exploring the integration of Large Language Models (LLMs) in conversational and debate formats.
 
 - 🔧 **Tech:** Python, Large Language Models, LangChain, Prompt Engineering
