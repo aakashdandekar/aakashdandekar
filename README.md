@@ -47,7 +47,7 @@ Exploring the integration of Large Language Models (LLMs) in legal document anal
 ### 🤖 [DebateX — Multi-Agent LLM Reasoning Engine](https://github.com/aakashdandekar/Debate-LLM)
 Exploring the integration of Large Language Models (LLMs) in conversational and debate formats.
 
-- 🔧 **Tech:** Python, Large Language Models, LangChain, Prompt Engineering
+- 🔧 **Tech:** Python, Large Language Models, LangChain, Prompt Engineering, VueJS
 - 📄 Licensed under Apache-2.0
 
 ---
@@ -55,7 +55,7 @@ Exploring the integration of Large Language Models (LLMs) in conversational and 
 ### 🛍️ [Product Marketplace API](https://github.com/aakashdandekar/Product-Marketplace-API)
 A FastAPI-based backend for a product marketplace with user authentication, image uploads, full-text product search, and purchasing functionality.
 
-- 🔧 **Tech:** Python, FastAPI, MongoDB, JWT, ImageKit, Uvicorn, antigravity
+- 🔧 **Tech:** Python, FastAPI, MongoDB, JWT, ImageKit, Uvicorn
 - 📄 Licensed under Apache-2.0
 
 ---
