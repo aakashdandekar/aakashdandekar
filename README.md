@@ -7,7 +7,6 @@
 *Building autonomous agents and intelligent automation pipelines that work in the real world.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aakash--dandekar.onrender.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakash-dandekar.onrender.com/)
-[![Open to Projects](https://img.shields.io/badge/Status-Open%20to%20Projects-brightgreen?style=for-the-badge)](#)
 
 </div>
 
