@@ -120,17 +120,6 @@ A backend API for a freelance marketplace platform with secure auth and data val
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aakashdandekar&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdandekar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
-
----
 
 ## 🤝 Let's Build Something Great
 
