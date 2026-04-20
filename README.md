@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm Third Year B.Tech CSE student and a freelance AI engineer, focused on building intelligent systems that actually work in the real world. My expertise lies at the intersection of large language models, agentic frameworks, and production-grade automation pipelines.
+I'm Third Year B.Tech CSE student and a AI engineer, focused on building intelligent systems that actually work in the real world. My expertise lies at the intersection of large language models, agentic frameworks, and production-grade automation pipelines.
 
 From designing multi-agent orchestration systems to building voice-powered assistants and automated backend APIs — I craft solutions that reduce manual effort, accelerate decision-making, and unlock new capabilities for businesses ready to embrace AI.
 
