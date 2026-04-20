@@ -5,14 +5,13 @@
 *Building autonomous agents and intelligent automation pipelines that work in the real world.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aakash--dandekar.onrender.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakash-dandekar.onrender.com/)
-[![Open to Projects](https://img.shields.io/badge/Status-Open%20to%20Projects-brightgreen?style=for-the-badge)](#)
 
 
 ---
 
 ## 🧠 About Me
 
-I'm a freelance AI engineer focused on building intelligent systems at the intersection of **large language models**, **agentic frameworks**, and **production-grade automation pipelines**.
+I'm a student and AI engineer focused on building intelligent systems at the intersection of **large language models**, **agentic frameworks**, and **production-grade automation pipelines**.
 
 From designing multi-agent orchestration systems to building voice-powered assistants and automated backend APIs — I craft solutions that reduce manual effort, accelerate decision-making, and unlock new capabilities for businesses ready to embrace AI.
 
