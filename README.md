@@ -6,7 +6,7 @@
 
 *Building autonomous agents and intelligent automation pipelines that work in the real world.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aakash--dandekar.onrender.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakash-dandekar.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aakash--dandekar.onrender.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakash-dandekar-portfolio.onrender.com/)
 
 </div>
 
@@ -126,7 +126,7 @@ Have a project in mind? I'd love to hear about it.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-black?style=for-the-badge&logo=safari&logoColor=white)](https://aakash-dandekar.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-black?style=for-the-badge&logo=safari&logoColor=white)](https://aakash-dandekar-portfolio.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakashdandekar)
 
 *Let's connect and build something great together*
