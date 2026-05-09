@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm an AI engineering student focused on building intelligent systems at the intersection of **large language models**, **agentic frameworks**, and **production-grade automation pipelines**.
+I'm an Computer Science & Engineering student focused on building intelligent systems at the intersection of **large language models**, **agentic frameworks**, and **production-grade automation pipelines**.
 
 From designing multi-agent orchestration systems to building voice-powered assistants and automated backend APIs — I craft solutions that reduce manual effort, accelerate decision-making, and unlock new capabilities for businesses ready to embrace AI.
 
