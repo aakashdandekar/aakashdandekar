@@ -2,11 +2,11 @@
 
 # Hey, I'm Aakash Dandekar 👋
 
-### AI Engineer · B.Tech CSE Student (3rd Year)
+### AI Engineer · Full-Stack Developer · B.Tech CSE Student (3rd Year)
 
-*Building autonomous agents and intelligent automation pipelines that work in the real world.*
+*Building autonomous agents, intelligent automation pipelines, and production-grade web applications that work in the real world.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aakash--dandekar.onrender.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakash-dandekar-portfolio.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aakash--dandekar--portfolio.onrender.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://aakash-dandekar-portfolio.onrender.com/)
 
 </div>
 
@@ -14,13 +14,13 @@
 
 ## 🧠 About Me
 
-I'm an Computer Science & Engineering student focused on building intelligent systems at the intersection of **large language models**, **agentic frameworks**, and **production-grade automation pipelines**.
+I'm a Computer Science & Engineering student building at the intersection of **large language models**, **agentic frameworks**, **production-grade automation**, and **modern web development**.
 
-From designing multi-agent orchestration systems to building voice-powered assistants and automated backend APIs — I craft solutions that reduce manual effort, accelerate decision-making, and unlock new capabilities for businesses ready to embrace AI.
+From designing multi-agent orchestration systems to crafting polished full-stack web apps and automated backend APIs — I build solutions that reduce manual effort, accelerate decision-making, and deliver real value.
 
 - 🎓 3rd Year B.Tech Computer Science Engineering student
-- 🤖 Specializing in **Agentic AI Systems & Intelligent Automation**
-- 🔭 Currently building autonomous agents and LLM-powered pipelines
+- 🤖 Specializing in **Agentic AI Systems, Intelligent Automation & Full-Stack Web Development**
+- 🔭 Currently building autonomous agents, LLM-powered pipelines, and scalable web applications
 - 💡 Every project I take on is built with clarity of purpose and a commitment to measurable value
 - 📬 Always eager to collaborate and learn
 
@@ -32,21 +32,43 @@ From designing multi-agent orchestration systems to building voice-powered assis
 |------|-----------|
 | 🤖 **Agentic AI Systems** | Multi-agent orchestration, tool-use pipelines, autonomous task execution |
 | 🧩 **LLM Integration** | Prompt engineering, RAG systems, fine-tuning, API integration |
+| 🌐 **Web Development** | Responsive SPAs, interactive UIs, component-driven architecture with React & Vue |
 | 🔊 **Voice AI** | Voice-powered assistants and conversational interfaces |
 | ⚙️ **Automation Pipelines** | Backend automation, workflow orchestration, intelligent data processing |
-| 🌐 **Full-Stack AI Apps** | End-to-end AI applications from backend to deployed product |
+| 🏗️ **Full-Stack AI Apps** | End-to-end applications from frontend UI to deployed AI-powered backend |
 
 ---
 
 ## 🚀 Tech Stack
+
+**Frontend & Web**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 **AI & RAG**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=flat&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6366F1?style=flat&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-4B5563?style=flat&logoColor=white)
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT%20Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
 **Data Science**
 
@@ -55,21 +77,12 @@ From designing multi-agent orchestration systems to building voice-powered assis
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF6F00?style=flat&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logoColor=white)
 
-**Backend & APIs**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logoColor=white)
-![JWT Auth](https://img.shields.io/badge/JWT%20Auth-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-
 **Data & Storage**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Vector DBs](https://img.shields.io/badge/Vector%20DBs-8B5CF6?style=flat&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-F59E0B?style=flat&logoColor=white)
@@ -88,13 +101,13 @@ From designing multi-agent orchestration systems to building voice-powered assis
 ## 📌 Featured Projects
 
 ### ⚖️ Lexify — AI Legal Assistant
-`AI Assistant` `RAG`
-An AI-powered legal assistant built with RAG architecture for intelligent legal query handling.
-`Python` `FastAPI` `LangChain` `Prompt Engineering`
+`AI Assistant` `RAG` `Full-Stack`
+An AI-powered legal assistant built with RAG architecture for intelligent legal query handling, featuring a responsive web interface and a robust FastAPI backend.
+`Python` `FastAPI` `LangChain` `React` `Prompt Engineering`
 
 ### 🧠 DebateX — Multi-Agent LLM Reasoning Engine
-`Multi-Agent` `LLM`
-A multi-agent system where LLMs reason, argue, and debate across perspectives using orchestrated pipelines.
+`Multi-Agent` `LLM` `Web App`
+A multi-agent system where LLMs reason, argue, and debate across perspectives using orchestrated pipelines, with a dynamic Vue.js frontend for real-time interaction.
 `Python` `LangChain` `VueJS` `Prompt Engineering`
 
 ### 🤖 Agentix — CLI Agent powered by Ollama
@@ -108,8 +121,8 @@ A voice AI integration for the Wayland display server, enabling speech-to-text c
 `Python` `Whisper` `Wayland` `Linux`
 
 ### 🛒 Product Marketplace API
-`Backend` `API`
-A robust backend API for a product marketplace with authentication, image handling, and database integration.
+`Backend` `API` `Full-Stack`
+A robust backend API for a product marketplace with authentication, image handling, and database integration — built to plug directly into modern React or Vue frontends.
 `FastAPI` `MongoDB` `JWT` `ImageKit`
 
 ### 💼 Freelance Marketplace API
@@ -119,10 +132,9 @@ A backend API for a freelance marketplace platform with secure auth and data val
 
 ---
 
-
 ## 🤝 Let's Build Something Great
 
-Have a project in mind? I'd love to hear about it.
+Whether it's an intelligent AI system, a full-stack web application, or an automated backend pipeline — I'd love to hear about your project.
 
 <div align="center">
 
